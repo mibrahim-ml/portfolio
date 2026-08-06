@@ -1,6 +1,6 @@
 ## Mohamed Ibrahim
 
-<img src="IMG_NEW.png" width="400" style="border-radius: 50%;">
+<img src="IMG_NEW.png" width="350" style="border-radius: 40%;">
 
 
 **Data Scientist** — New York, NY
