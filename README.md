@@ -15,7 +15,7 @@ Data scientist with a background in mathematics and physics. Focused on end-to-e
 
 End-to-end pipeline predicting median district home values from 1990 census data — custom sklearn transformers, feature selection, and hyperparameter tuning across three model families, with an evaluation methodology that catches its own mistakes (a data leakage bug was found and fixed before finalizing results).
 
-- **R²:** 0.833
+- **R²:** 0.825
 - **MAE:** $30.8K
 - **RMSE:** $46.8K
 
