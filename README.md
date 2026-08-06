@@ -1,3 +1,5 @@
+![Mohamed Ibrahim](profile.jpg)
+
 **Data Scientist** — New York, NY
 
 Data scientist with a background in mathematics and physics. Focused on end-to-end pipelines built with rigor — validating assumptions with evidence, questioning results before trusting them, and documenting decisions clearly from raw data through to a tuned, tested model.
